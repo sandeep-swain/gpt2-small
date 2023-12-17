@@ -27,3 +27,6 @@ In the `gpt_small_Rope.py` file, I have tried to implement Rotary Positional Enc
 
 **Dataset**
 eng-poem.txt file contains 20 mb of english poem.  It exposes the model to various linguistic constructs, metaphors, and a wide range of vocabulary. Secondly, training on poetry enables the model to generate creative and stylistically interesting text. It can help the model to understand and generate text that not only makes sense grammatically but also carries a certain poetic and creative flair.
+
+
+Also check out the gpt-small(85M parameters).ipynb  file to check the training process.
